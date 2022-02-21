@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @KM525
+- 👋 Hi, I’m KM525
 - 👀 I’m interested in kakaotalk bot
-- 🌱 I’m currently learning javascrit
